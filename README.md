@@ -1,11 +1,26 @@
-# Food Classification MLOps Project
+# Проект MLOps по классификации продуктов питания
 
-A project to deploy a food type classification model using MLOps practices.
+Проект для классификации изображений еды с использованием глубокого обучения и веб-интерфейса.
 
-## 🍕 About the project
+О проекте
 
-CNN model for classifying 4 types of food:
-- 🍕 Pizza
-- 🍔 Burger  
-- 🍣 Sushi
-- 🌭Hot Dog
+### Модель CNN для классификации 4 видов продуктов питания:
+
+🍕 Пицца
+🍔 Бургер
+🍣 Суши
+🌭 Хот-дог
+
+
+# MLOps Food Classification Project
+
+A project for classifying food images using deep learning and a web interface.
+
+About the project
+
+### CNN model for classifying 4 types of food:
+
+🍕 Pizza
+🍔 Burger
+🍣 Sushi
+🌭 Hot dog
