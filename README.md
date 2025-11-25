@@ -1,4 +1,3 @@
-# PMLDL_HW1
 # Food Classification MLOps Project
 
 A project to deploy a food type classification model using MLOps practices.
